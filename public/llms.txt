@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מיטות טיפולים, כיסאות, טרוליות וציוד מקצועי לסלון קוסמטיקה — הכל במקום אחד. בי לייזר אונליין מביאה לכם את הפתרונות המושלמים לעסק יפה ומצליח.
+
+### שירותים
+https://example.com/services
+מבחר עשיר של מיטות טיפולים, ציוד לקעקועים, ריהוט סלון ועיסוי — כל מה שהמטפל המקצועי צריך. גלו את הקטלוג המלא ושדרגו את הסלון שלכם עוד היום.
+
+### אודות
+https://example.com/about
+בי לייזר אונליין היא יבואנית ציוד קוסמטי ורפואי מקצועי עם ניסיון עשיר בשירות בעלי סלונים, קוסמטיקאיות ומטפלים. גלו מדוע אנחנו הבחירה הראשונה של אנשי המקצוע בתחום.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על מיטות טיפולים, sport line cielo pro 2022 או כל ציוד אחר? צוות המומחים שלנו כאן לעזור. צרו קשר עכשיו וקבלו ייעוץ מקצועי חינם לסלון שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - בי לייזר אונליין
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - בי לייזר אונליין
+
+### Category
+https://example.com/category/:slug
+מוצרים - בי לייזר אונליין
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
